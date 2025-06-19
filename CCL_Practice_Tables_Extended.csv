@@ -1,0 +1,51 @@
+person_id,name_full_formatted,birth_dt_tm,sex_cd,language_cd,active_ind
+1001,Brenda Terrell,1942-11-17,1,101,1
+1002,Dennis Price,1974-11-17,2,101,0
+1003,Matthew Edwards,1944-03-09,2,102,0
+1004,Tina Ramos,1977-02-21,1,103,1
+1005,Monica Martin,1983-05-31,2,104,1
+1006,Travis Miles DDS,1942-03-09,1,102,0
+1007,Collin Jones,1969-03-24,2,103,0
+1008,Rhonda Wright,2002-10-23,2,103,1
+1009,Alexandria Cook,1971-11-03,1,101,1
+1010,Kelly Hooper,1978-05-12,1,102,0
+1011,Angela Ruiz,1952-02-29,2,101,0
+1012,Gina Lopez,1988-02-16,1,101,1
+1013,Rhonda King,1984-03-20,2,102,1
+1014,Sabrina Vang,2005-10-14,2,101,1
+1015,Norma Holmes,1997-11-19,1,102,1
+1016,Kathryn Berry,1992-03-08,1,102,1
+1017,Erica Woods,1992-12-15,2,102,0
+1018,Andrew Brown,1951-02-26,1,104,0
+1019,Tyler Chang,1971-05-21,1,103,0
+1020,Erika Soto,2002-11-18,1,103,0
+1021,David Orozco,1985-12-30,1,102,1
+1022,James Gomez,1955-02-16,1,101,0
+1023,Darius Crawford,2001-02-20,1,101,0
+1024,Trevor Velez,1976-02-22,1,101,0
+1025,Christopher Sanchez,1982-01-27,1,101,0
+1026,Mrs. Kelly Johnson,1957-10-14,1,104,0
+1027,Ronald Moore,1983-08-14,1,102,1
+1028,Joshua Haney,1941-01-19,1,101,0
+1029,Brett Smith,1957-11-21,1,104,1
+1030,Joel Garrett,1957-08-13,1,103,0
+1031,Andrea Bentley,1968-04-07,2,103,1
+1032,Amy Hughes,1971-07-30,2,101,1
+1033,Tom Black,1952-06-29,1,103,1
+1034,Tracy Palmer,1935-02-07,1,101,0
+1035,David Taylor PhD,1942-10-26,1,104,0
+1036,Tammie Clark,1944-02-19,2,102,1
+1037,Ashley Singh DDS,1960-01-24,2,104,1
+1038,Logan Wright,1955-02-04,2,102,0
+1039,Sarah Green,1972-05-04,2,104,1
+1040,Caroline Curtis,1969-03-06,2,101,1
+1041,Ann Brewer,1961-05-13,2,104,0
+1042,Douglas Moore,1996-05-03,1,102,1
+1043,David Lyons,1983-01-14,1,102,0
+1044,Marie Miranda,2003-04-11,2,103,1
+1045,Christopher Parrish,2000-08-11,2,103,0
+1046,Mary Garcia,2001-02-23,1,101,0
+1047,Michael Mercado,1949-07-20,1,103,0
+1048,Reginald Owen,1983-03-01,2,101,0
+1049,Savannah Clements,1949-09-23,1,102,1
+1050,Shawn Zavala,1973-08-20,1,104,0
