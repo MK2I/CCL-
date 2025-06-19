@@ -1,0 +1,8 @@
+Column Name,Data Type,Description
+lab_result_id,numeric,Unique result ID
+person_id,numeric,Patient’s ID
+order_dt_tm,datetime,Date/time the lab was ordered
+result_dt_tm,datetime,Date/time result received
+test_cd,numeric,Code for lab test
+result_val,varchar(50),Result value
+unit_cd,numeric,Unit of measurement

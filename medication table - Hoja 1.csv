@@ -1,0 +1,8 @@
+Column Name,Data Type,Description
+order_id,numeric,Unique identifier for the medication order
+person_id,numeric,Foreign key to Person
+med_code,numeric,Medication code
+start_dt_tm,datetime,Start date/time
+stop_dt_tm,datetime,Stop date/time
+dose,decimal,Dose amount
+route_cd,numeric,"Route of administration (oral, IV, etc.)"
